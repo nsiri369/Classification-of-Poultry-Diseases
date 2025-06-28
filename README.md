@@ -5,11 +5,7 @@ A deep learning–based web application that identifies common poultry diseases 
 
 ---
 
-## 📸 Demo
 
-![App Screenshot](healthy.1.jpg) 
-
----
 
 ## 🚀 Features
 
